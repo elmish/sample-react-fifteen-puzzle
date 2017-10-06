@@ -1,7 +1,6 @@
 module FifteenPuzzle.State
 
 open FifteenPuzzle.Types
-open Fable.Import.Browser
 
 let random = System.Random()
 
